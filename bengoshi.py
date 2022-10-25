@@ -63,7 +63,7 @@ hodu_link = '[保津　大輔](https://legalus.jp/lawyer-detail/cbd0e6a7-0472-40
 expander.markdown(hodu_link, unsafe_allow_html=True)
 expander.caption('倉敷市浜町1-11-21')
 
-miura_link = '[三浦　巧](https://legalus.jp/office/0ca470b8-0d77-4f9b-aa39-e7d0c9b794fa'
+miura_link = '[三浦　巧](https://legalus.jp/office/0ca470b8-0d77-4f9b-aa39-e7d0c9b794fa）'
 expander.markdown(miura_link, unsafe_allow_html=True)
 expander.caption('倉敷市阿知1-7-2')
 
